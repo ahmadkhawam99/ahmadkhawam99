@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 IT Graduate — IPU Private University, Aleppo, Syria
+- 🎓 IT Graduate — Al Ittihad Private University, Aleppo, Syria
 - 💼 Junior Flutter Developer with hands-on production experience
 - 📱 Specialized in cross-platform mobile & web apps using Flutter
 - 🔧 Passionate about clean code and real-world problem solving
