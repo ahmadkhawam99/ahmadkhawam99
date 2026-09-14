@@ -16,7 +16,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 IT Graduate — Al Ittihad Private University, Aleppo, Syria
-- 💼 Junior Flutter Developer with hands-on production experience
+- 💼 Flutter Developer with hands-on production experience
 - 📱 Specialized in cross-platform mobile & web apps using Flutter
 - 🔧 Passionate about clean code and real-world problem solving
 - 📍 Based in Aleppo, Syria
@@ -34,15 +34,15 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Links |
 |---|---|---|
-| 🪔 **Fanous App** | E-commerce platform · BLoC · REST API | [App](https://tinyurl.com/fanousapp) · [Web](https://fanous.a2ysyr.com) |
-| 🛒 **Happy Family Mall** | Shopping mall · Delivery app · GetX | [App](https://tinyurl.com/happyFamilyMall) |
-| 👔 **Kattan Store** | Fashion retail app · GetX | Coming Soon |
-| 🔧 **Jordan Academy** | Automotive training web platform · GetX | [Web](https://jordanacademic.com) |
-| ⌚ **Smart Health Watch** | IoT wearable · Heart rate & fall detection | Graduation Project |
+|  **Fanous App** | E-commerce platform · BLoC · REST API | [App](https://tinyurl.com/fanousapp) · [Web](https://fanous.a2ysyr.com) |
+|  **Happy Family Mall** | Shopping mall · Delivery app · GetX | [App](https://tinyurl.com/happyFamilyMall) |
+|  **Kattan Store** | Fashion retail app · GetX | Coming Soon |
+|  **Jordan Academy** | Automotive training web platform · GetX | [Web](https://jordanacademic.com) |
+|  **Smart Health Watch** | IoT wearable · Heart rate & fall detection | Graduation Project |
 
 ---
 
