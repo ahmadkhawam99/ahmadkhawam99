@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Ahmad Khawam
 
-### Junior Flutter Developer 🚀
+### Flutter Developer | Mobile & Web Apps | BLoC • Clean Architecture • REST APIs
 
 *Building cross-platform apps that solve real-world problems*
 
